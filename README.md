@@ -31,6 +31,9 @@ https://apo.adrian-jagusch.de/
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/908279454621651015/1041350233034084352/Capture1.PNG)
 
+## Explanation
+
+[![IMAGE ALT TEXT HERE](https://cdn.discordapp.com/attachments/908279454621651015/1041361111745835078/Capture2.PNG)](https://youtu.be/NDNuugNxU8s)
 
 ## .apt
 
